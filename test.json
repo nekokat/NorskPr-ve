@@ -1,0 +1,110 @@
+{
+  "Test": {
+    "Autor": {
+      "FirstName": "Maxim",
+      "LastName": "Halyapin",
+      "Username": "elurantrop",
+      "Email": "nekokat89@gmail.com"
+    },
+    "DateCreate": "Thursday, 26 May 2022 09:05:29",
+    "Title": "Norskprøven - Kompetanse Norge",
+    "Language": {
+      "-langlevel": "B1",
+      "#text": "Norwegian"
+    },
+    "Body": {
+      "Questions": {
+        "-count": 3,
+        "Question": [
+          {
+            "-id": 1,
+            "-type": "S",
+            "p": "Hvilken måned er det nå?",
+            "Answers": {
+              "Answer": [
+                {
+                  "-id": 1,
+                  "-proper": false,
+                  "#text": "Januar"
+                },
+                {
+                  "-id": 3,
+                  "-proper": true,
+                  "#text": "Uke 13"
+                },
+                {
+                  "-id": 2,
+                  "-proper": false,
+                  "#text": "Mandag"
+                },
+                {
+                  "-id": 4,
+                  "-proper": false,
+                  "#text": "Det er jul"
+                }
+              ]
+            }
+          },
+          {
+            "-id": 3,
+            "-type": "S",
+            "p": "Hvilken av disse er IKKE en farge?",
+            "Answers": {
+              "Answer": [
+                {
+                  "-id": 4,
+                  "-proper": false,
+                  "#text": "Gul"
+                },
+                {
+                  "-id": 2,
+                  "-proper": false,
+                  "#text": "Rød"
+                },
+                {
+                  "-id": 1,
+                  "-proper": true,
+                  "#text": "Rosa"
+                },
+                {
+                  "-id": 3,
+                  "-proper": false,
+                  "#text": "Båt"
+                }
+              ]
+            }
+          },
+          {
+            "-id": 2,
+            "-type": "S",
+            "p": "Skal vi gå____ og spise på restaurant?",
+            "Answers": {
+              "Answer": [
+                {
+                  "-id": 4,
+                  "-proper": false,
+                  "#text": "reise"
+                },
+                {
+                  "-id": 2,
+                  "-proper": true,
+                  "#text": "til"
+                },
+                {
+                  "-id": 1,
+                  "-proper": false,
+                  "#text": "inn"
+                },
+                {
+                  "-id": 3,
+                  "-proper": false,
+                  "#text": "ut"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

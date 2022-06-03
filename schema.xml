@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Test>
+  <Autor>
+    <FirstName>Maxim</FirstName>
+    <LastName>Halyapin</LastName>
+    <Username>elurantrop</Username>
+    <Email>nekokat89@gmail.com</Email>
+  </Autor>
+  <DateCreate>Thursday, 26 May 2022 09:05:29</DateCreate>
+  <Title>Norskprøven - Kompetanse Norge</Title>
+  <Language langlevel="B1">Norwegian</Language>
+  <Body>
+    <Questions count="3">
+      <Question id="2" type="S">
+        <p>Skal vi gå____ og spise på restaurant?</p>
+        <Answers>
+          <Answer id="2" proper="True">til</Answer>
+          <Answer id="1" proper="False">inn</Answer>
+          <Answer id="3" proper="False">ut</Answer>
+          <Answer id="4" proper="False">reise</Answer>
+        </Answers>
+      </Question>
+      <Question id="3" type="S">
+        <p>Hvilken av disse er IKKE en farge?</p>
+        <Answers>
+          <Answer id="1" proper="True">Rosa</Answer>
+          <Answer id="4" proper="False">Gul</Answer>
+          <Answer id="3" proper="False">Båt</Answer>
+          <Answer id="2" proper="False">Rød</Answer>
+        </Answers>
+      </Question>
+      <Question id="1" type="S">
+        <p>Hvilken måned er det nå?</p>
+        <Answers>
+          <Answer id="1" proper="False">Januar</Answer>
+          <Answer id="4" proper="False">Det er jul</Answer>
+          <Answer id="2" proper="False">Mandag</Answer>
+          <Answer id="3" proper="True">Uke 13</Answer>
+        </Answers>
+      </Question>
+    </Questions>
+  </Body>
+</Test>
